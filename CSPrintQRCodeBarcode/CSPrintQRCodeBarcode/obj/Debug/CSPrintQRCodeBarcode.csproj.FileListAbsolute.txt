@@ -1,0 +1,17 @@
+D:\practice\CSPrintQRCodeBarcode\CSPrintQRCodeBarcode\bin\Debug\CSPrintQRCodeBarcode.exe.config
+D:\practice\CSPrintQRCodeBarcode\CSPrintQRCodeBarcode\bin\Debug\CSPrintQRCodeBarcode.exe
+D:\practice\CSPrintQRCodeBarcode\CSPrintQRCodeBarcode\bin\Debug\CSPrintQRCodeBarcode.pdb
+D:\practice\CSPrintQRCodeBarcode\CSPrintQRCodeBarcode\obj\Debug\CSPrintQRCodeBarcode.csproj.AssemblyReference.cache
+D:\practice\CSPrintQRCodeBarcode\CSPrintQRCodeBarcode\obj\Debug\CSPrintQRCodeBarcode.PrintQRCodeBarcode.resources
+D:\practice\CSPrintQRCodeBarcode\CSPrintQRCodeBarcode\obj\Debug\CSPrintQRCodeBarcode.Properties.Resources.resources
+D:\practice\CSPrintQRCodeBarcode\CSPrintQRCodeBarcode\obj\Debug\CSPrintQRCodeBarcode.csproj.GenerateResource.cache
+D:\practice\CSPrintQRCodeBarcode\CSPrintQRCodeBarcode\obj\Debug\CSPrintQRCodeBarcode.csproj.CoreCompileInputs.cache
+D:\practice\CSPrintQRCodeBarcode\CSPrintQRCodeBarcode\obj\Debug\CSPrintQRCodeBarcode.exe
+D:\practice\CSPrintQRCodeBarcode\CSPrintQRCodeBarcode\obj\Debug\CSPrintQRCodeBarcode.pdb
+D:\practice\CSPrintQRCodeBarcode\CSPrintQRCodeBarcode\bin\Debug\MaterialSkin.dll
+D:\practice\CSPrintQRCodeBarcode\CSPrintQRCodeBarcode\obj\Debug\CSPrintQ.BC242620.Up2Date
+D:\practice\CSPrintQRCodeBarcode\CSPrintQRCodeBarcode\bin\Debug\Zen.Barcode.Core.dll
+D:\practice\CSPrintQRCodeBarcode\CSPrintQRCodeBarcode\bin\Debug\PdfSharp.Charting.dll
+D:\practice\CSPrintQRCodeBarcode\CSPrintQRCodeBarcode\bin\Debug\PdfSharp.dll
+D:\practice\CSPrintQRCodeBarcode\CSPrintQRCodeBarcode\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\practice\CSPrintQRCodeBarcode\CSPrintQRCodeBarcode\bin\Debug\de\PdfSharp.resources.dll

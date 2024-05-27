@@ -1,0 +1,78 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\practice\\CSPrintQRCodeBarcode\\CSPrintQRCodeBarcode\\CSPrintQRCodeBarcode.csproj": {}
+  },
+  "projects": {
+    "D:\\practice\\CSPrintQRCodeBarcode\\CSPrintQRCodeBarcode\\CSPrintQRCodeBarcode.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\practice\\CSPrintQRCodeBarcode\\CSPrintQRCodeBarcode\\CSPrintQRCodeBarcode.csproj",
+        "projectName": "CSPrintQRCodeBarcode",
+        "projectPath": "D:\\practice\\CSPrintQRCodeBarcode\\CSPrintQRCodeBarcode\\CSPrintQRCodeBarcode.csproj",
+        "packagesPath": "C:\\Users\\dev00\\.nuget\\packages\\",
+        "outputPath": "D:\\practice\\CSPrintQRCodeBarcode\\CSPrintQRCodeBarcode\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dev00\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net481"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://packagesource": {}
+        },
+        "frameworks": {
+          "net481": {
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net481": {
+          "dependencies": {
+            "MaterialSkin.2": {
+              "target": "Package",
+              "version": "[2.3.1, )"
+            },
+            "PDFsharp": {
+              "target": "Package",
+              "version": "[1.50.5147, )"
+            },
+            "Zen.Barcode.Rendering.Framework": {
+              "target": "Package",
+              "version": "[3.1.10729.1, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

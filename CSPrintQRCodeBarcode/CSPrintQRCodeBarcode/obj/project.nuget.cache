@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "P3w2dSpPHxPVG+6BBu5a+kMn6r2YLPCqPmF+GrfPRWMCEHTGTj6Ge+oeTeP2R9wqMgCyzuqQ0x2w90eN6YPbTg==",
+  "success": true,
+  "projectFilePath": "D:\\practice\\CSPrintQRCodeBarcode\\CSPrintQRCodeBarcode\\CSPrintQRCodeBarcode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dev00\\.nuget\\packages\\materialskin.2\\2.3.1\\materialskin.2.2.3.1.nupkg.sha512",
+    "C:\\Users\\dev00\\.nuget\\packages\\pdfsharp\\1.50.5147\\pdfsharp.1.50.5147.nupkg.sha512",
+    "C:\\Users\\dev00\\.nuget\\packages\\zen.barcode.rendering.framework\\3.1.10729.1\\zen.barcode.rendering.framework.3.1.10729.1.nupkg.sha512"
+  ],
+  "logs": []
+}
